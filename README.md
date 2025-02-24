@@ -7,7 +7,7 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 - **Transação**: Criptografia e descriptografia de arquivos.  
 - **Arquitetura**: Microserviço.  
 - **Controle de Acesso**: Login com autenticação via token JWT.  
-- **Repositório Git/GitLab**: Para versionamento e documentação.  
+- **Repositório Git e Notion**: Para versionamento e documentação.  
 
 ---
 
@@ -18,7 +18,7 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 - **Banco de Dados**: PostgreSQL  
 - **Autenticação**: JWT (JSON Web Token)  
 - **Criptografia**: Bibliotecas do Java (`javax.crypto`, `BouncyCastle`)  
-- **Padrão Arquitetural**: RESTful API com Spring WebFlux (reativo)  
+- **Padrão Arquitetural**:??
 
 ---
 
