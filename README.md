@@ -64,4 +64,4 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 ---
 
 **Desenvolvedores:** Lucas Vinicius Eufrasio e Sandro Machinski.  \
-**Plano de trabalho:** jira.  
+**Plano de trabalho:** https://catolicasc-team.atlassian.net/jira/software/projects/LS/boards/2?atlOrigin=eyJpIjoiY2Y4YjhkNGFlOTQxNGI0OTg2ZmQ5NTg4ZjYxNzhmOWEiLCJwIjoiaiJ9
