@@ -60,3 +60,8 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 
 2️⃣ **Segurança**  
 - Apenas usuários autenticados podem acessar arquivos criptografados.  
+
+---
+
+**Desenvolvedores:** Lucas Vinicius Eufrasio e Sandro Machinski.  \
+**Plano de trabalho:** jira.  
