@@ -59,7 +59,22 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 - Arquitetura baseada em microserviços para escalabilidade.  
 
 2️⃣ **Segurança**  
-- Apenas usuários autenticados podem acessar arquivos criptografados.  
+- Apenas usuários autenticados podem acessar arquivos criptografados.
+
+ 3  **Desempenho:
+- O sistema deve ser capaz de processar operações de encriptação e desencriptação de forma eficiente, garantindo tempos de resposta adequados para uma experiência de usuário satisfatória.
+
+ 4 **Usabilidade:
+- O sistema deve possuir uma interface intuitiva e amigável, facilitando a utilização das funcionalidades por usuários com diferentes níveis de conhecimento técnico.
+
+ 5 **Confiabilidade:
+- O sistema deve ser estável e resiliente, garantindo alta disponibilidade e funcionamento consistente sem falhas inesperadas.
+
+ 6 **Portabilidade:
+- O sistema deve ser compatível com múltiplas plataformas e dispositivos, permitindo que os usuários acessem as funcionalidades de diferentes ambientes.
+
+ 7 **Conformidade Legal:
+- O sistema deve estar em conformidade com legislações e regulamentações aplicáveis relacionadas à privacidade e proteção de dados, como a Lei Geral de Proteção de Dados (LGPD) no Brasil.
 
 ---
 
