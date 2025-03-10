@@ -18,7 +18,6 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 - **Banco de Dados**: PostgreSQL  
 - **Autenticação**: JWT (JSON Web Token)  
 - **Criptografia**: Bibliotecas do Node.js (`crypto`, `bcrypt`, `jsonwebtoken`)  
-- **Padrão Arquitetural**: A definir  
 
 ---
 
