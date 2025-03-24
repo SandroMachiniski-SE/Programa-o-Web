@@ -7,27 +7,21 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.UserService = void 0;
-// src/user.service.ts
 const common_1 = require("@nestjs/common");
 let UserService = class UserService {
     create(createUserDto) {
-        // Lógica para criação de usuário
         return { message: 'Usuário criado com sucesso', data: createUserDto };
     }
     findAll() {
-        // Lógica para listar todos os usuários
         return [{ id: '1', name: 'Exemplo de Usuário' }];
     }
     findOne(id) {
-        // Lógica para buscar um usuário por id
         return { id, name: 'Exemplo de Usuário' };
     }
     update(id, updateUserDto) {
-        // Lógica para atualizar usuário
         return { message: 'Usuário atualizado com sucesso', id, data: updateUserDto };
     }
     remove(id) {
-        // Lógica para remover usuário
         return { message: 'Usuário removido com sucesso', id };
     }
 };

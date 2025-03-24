@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
-// import { User } from './users/user.entity'; // Exemplo de entidade
-// import { UserModule } from './users/user.module'; // Exemplo de módulo
+// import { User } from './users/user.entity'; 
+// import { UserModule } from './users/user.module'; 
 
 @Module({
   imports: [
@@ -12,10 +12,9 @@ import { TypeOrmModule } from '@nestjs/typeorm';
       username: 'postgres',
       password: '123',
       database: 'programacao_web',
-      entities: [/* User, ... */], 
+      entities: [], 
       synchronize: true, 
     }),
-    // UserModule, // Caso tenha um módulo de usuários
   ],
 })
 export class AppModule {}
