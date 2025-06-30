@@ -29,6 +29,10 @@ O sistema será uma aplicação web para criptografia de arquivos, com:
 
 ### **Transação - Criptografia e Descriptografia**  
 - Upload de arquivos.  
+- Criptografia com geração de token.
+- serviço de envio de arquivo para email do usuário.
+- Autenticação em dois fatores.
+- Descriptografia com senha diretamente no email.
 - Download do arquivo processado.  
 
 ---
